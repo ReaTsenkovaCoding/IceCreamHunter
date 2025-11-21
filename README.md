@@ -38,8 +38,8 @@ Key	Action
 -----------------
 
  - Download the .zip from Releases
- - Extract
- - Open Build -> v1 -> IceCreamHunter.exe
+ - Extract ICE CREAM HUNTER-v1.0-Windows
+ - run IceCreamHunter.exe
 
 🛠 Built With
 --------------
