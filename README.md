@@ -37,6 +37,7 @@ Key	Action
 📦 How to Play
 -----------------
 
+ - Open the Google Drive link
  - Download the .zip from Releases
  - Extract ICE CREAM HUNTER-v1.0-Windows
  - run IceCreamHunter.exe
