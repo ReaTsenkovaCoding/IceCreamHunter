@@ -10,3 +10,4 @@ Packages/com.unity.collab-proxy/
 *.sln
 *.user
 *.csproj
+.vscode
