@@ -4,6 +4,20 @@
 
  - A fast-paced 2D delivery game where you drive a tiny car, grab ice creams, and deliver them to monster clients before time runs out. Boost pads, tight turns, and chaos included.
 
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/bff142ed-fbb4-40d9-8786-2edc635a7dc8" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/a525f86e-8644-4d85-be37-a71643a9e3ce" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/598c97a9-aed1-422d-9c64-d964f57ded39" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/9a1cd370-d626-457c-941d-2ac702a6bca4" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1ec2d524-c6f0-494c-af96-339b3bcb550e" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b46f3694-0af5-45c5-bd98-c3231371a6eb" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5e02027a-d4f0-4550-ac64-0f6e9edfa37c" />
+
 🎮 Gameplay
 --------------
 
